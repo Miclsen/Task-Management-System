@@ -1,8 +1,8 @@
 namespace Task_Management_System
 {
-    public partial class frmAbout : Form
+    public partial class Form1 : Form
     {
-        public frmAbout()
+        public Form1()
         {
             InitializeComponent();
         }

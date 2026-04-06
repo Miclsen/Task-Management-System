@@ -1,6 +1,6 @@
 ﻿namespace Task_Management_System
 {
-    partial class frmReport
+    partial class Form6
     {
         /// <summary>
         /// Required designer variable.

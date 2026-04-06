@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace Task_Management_System
 {
-    public partial class frmReport : Form
+    public partial class Form6 : Form
     {
-        public frmReport()
+        public Form6()
         {
             InitializeComponent();
         }
